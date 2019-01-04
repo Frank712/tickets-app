@@ -1,9 +1,13 @@
-# Notas:
+# Notes:
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
+This repo contains source code to implement a express server and socket.io to simulate a changes on a tail of tickets in real time.
 
-Recuerden que deben de reconstruir los módulos de node con el comando
-
+* To install:
 ```
 npm install
+```
+
+* To run:
+```
+node server/server.js
 ```
